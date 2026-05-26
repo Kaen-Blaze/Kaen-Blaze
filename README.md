@@ -18,11 +18,12 @@
 </div>
 
 <br><br>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kaen-Blaze/Kaen-Blaze/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/snake.svg" />
+</p>
 <br><br>
 
 
