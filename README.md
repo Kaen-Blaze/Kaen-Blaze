@@ -15,19 +15,16 @@
 
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kaen-Blaze&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kaen-Blaze&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaen-Blaze&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaen-Blaze&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
----
 
 ## 🏆 Achievements
 
@@ -38,10 +35,11 @@
 </div>
 
 ---
+## 👾 Contribution Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman-contribution-graph.svg" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -53,15 +51,3 @@
 * 📱 Cross-Platform Mobile Apps
 * 🚀 REST APIs & Backend Development
 * 🎨 Modern UI/UX Interfaces
-
-<div align="center">
-
-### ⚡ Building futuristic systems with clean architecture ⚡
-
-<div align="center">
-
-### ⚡ Building futuristic systems with clean architecture ⚡
-
-</div>
-
-</div>
