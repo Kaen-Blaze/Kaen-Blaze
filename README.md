@@ -18,23 +18,23 @@
 </div>
 
 <br><br>
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kaen-Blaze/Kaen-Blaze/output/pacman-contribution-graph-dark.svg">
+<img src="https://raw.githubusercontent.com/Kaen-Blaze/Kaen-Blaze/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
 <br><br>
 
 
 <h2 align="center">Current Focus</h1>
 <div align="center">
-⚡ Building Modern Full-Stack Systems
-🤖 Creating Automation & AI Tools
-🛒 Developing Scalable Shopify Solutions
-📱 Engineering Cross-Platform Mobile Apps
+
+| ⚡ Full-Stack Systems |   🤖 Automation Tools  |
+| :------------------: | :--------------------: |
+| 🛒 Shopify Solutions | 📱 Mobile Applications |
+
 </div>
+
 
 <br><br>
 
