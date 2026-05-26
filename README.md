@@ -18,29 +18,23 @@
 </div>
 
 <br><br>
-<br><br>
-
-## 👾 Contribution Game
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kaen-Blaze/Kaen-Blaze/output/pacman-contribution-graph.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/Kaen-Blaze/Kaen-Blaze/output/pacman-contribution-graph-dark.svg">
 
 </div>
 
 <br><br>
 
-## 🌌 Current Focus
 
+##<h2 align="center">Current Focus</h1>
 <div align="center">
 
 <table>
 <tr>
 <td align="center">⚡ Full-Stack Applications</td>
 <td align="center">🤖 Automation & GitHub Tools</td>
-</tr>
-
-<tr>
 <td align="center">🛒 Shopify Experiences</td>
 <td align="center">📱 Cross-Platform Mobile Apps</td>
 </tr>
