@@ -3,14 +3,21 @@
 # ⚡ KAEN BLAZE ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%7C+MERN+%7C+Shopify;Building+Futuristic+Solutions" />
+
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,nextjs,php,wordpress,firebase,docker,git,github,vscode&theme=dark" />
 
 </div>
+<br><br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kaen-Blaze&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kaen-Blaze&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
 
+</div>
+
+<br><br>
 ## 👾 Contribution Game
 
 <div align="center">
@@ -19,9 +26,14 @@
 
 </div>
 
-Current Focus
- ⚡ Full-Stack Web Development
- 🛒 Shopify & E-Commerce Systems
- 📱 Cross-Platform Mobile Apps
- 🚀 REST APIs & Backend Development 
- 🎨 Modern UI/UX Interfaces
+## 🌌 Current Focus
+
+<div align="center">
+
+⚡ Building modern full-stack applications
+🤖 Developing automation & GitHub tools
+🛒 Creating scalable Shopify experiences
+📱 Designing cross-platform mobile apps
+
+</div>
+
