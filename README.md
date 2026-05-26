@@ -30,16 +30,10 @@
 
 <h2 align="center">Current Focus</h1>
 <div align="center">
-
-<table>
-<tr>
-<td >⚡ Full-Stack Applications</td>
-<td >🤖 Automation & GitHub Tools</td>
-<td >🛒 Shopify Experiences</td>
-<td >📱 Cross-Platform Mobile Apps</td>
-</tr>
-</table>
-
+⚡ Building Modern Full-Stack Systems
+🤖 Creating Automation & AI Tools
+🛒 Developing Scalable Shopify Solutions
+📱 Engineering Cross-Platform Mobile Apps
 </div>
 
 <br><br>
