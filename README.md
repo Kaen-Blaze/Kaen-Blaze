@@ -14,37 +14,54 @@
 
 </div>
 
----
-## 🌌 3D Contribution Graph
+
+
+pacman.yml
+
+
+name: Generate Pacman Animation
+
+on:
+schedule:
+- cron: "0 */12 * * *"
+
+workflow_dispatch:
+
+jobs:
+generate:
+permissions:
+contents: write
+
+```
+runs-on: ubuntu-latest
+
+steps:
+  - name: Generate Pacman
+    uses: abozanona/pacman-contribution-graph@main
+    with:
+      github_user_name: Kaen-Blaze
+
+  - name: Push Pacman Animation
+    uses: crazy-max/ghaction-github-pages@v3
+    with:
+      target_branch: output
+      build_dir: dist
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+
+1-3 minutes
+
+
+## 👾 Contribution Game
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaen-Blaze&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/Kaen-Blaze/Kaen-Blaze/output/pacman-contribution-graph.svg">
 
 </div>
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaen-Blaze&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-## 💻 Development Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaen-Blaze&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaen-Blaze&theme=tokyonight" />
-
-</div>
-## ⚡ GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaen-Blaze&theme=github_dark" />
-
-</div>
 
 
 
