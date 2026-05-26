@@ -2,7 +2,10 @@
 
 # ⚡ KAEN BLAZE ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%7C+MERN+%7C+Shopify;Building+Futuristic+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%7C+MERN+%7C+Shopify;Building+Futuristic+Solutions"
+height="70"
+/>
+
 
 <br><br>
 
@@ -20,9 +23,6 @@
 <br><br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/snake.svg" />
 </p>
 <br><br>
 
