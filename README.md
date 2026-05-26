@@ -9,26 +9,9 @@
 <img src="https://komarev.com/ghpvc/?username=Kaen-Blaze&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
 
 </div>
-
----
-
-## 🚀 About Me
-
-```yaml
-Name: Kaen Blaze
-Focus: Full-Stack Development & AI Automation
-Speciality: Modern Web, Mobile & Automation Systems
-Tech Stack: Python, MERN, Shopify, FastAPI, Flutter
-Design Style: Cyberpunk Minimal
-```
-
----
-
-## ⚡ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,nextjs,mongodb,mysql,fastapi,flutter,swift,php,wordpress,firebase,docker,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,nextjs,php,wordpress,firebase,docker,git,github,vscode&theme=dark" />
 
 </div>
 
