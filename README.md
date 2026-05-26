@@ -2,7 +2,7 @@
 
 # ⚡ KAEN BLAZE ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%7C+MERN+%7C+Shopify;AI+Automation+Engineer;Building+Futuristic+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%7C+MERN+%7C+Shopify;Building+Futuristic+Solutions" />
 
 <br>
 
@@ -39,38 +39,29 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman-contribution-graph.svg" />
 
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaen-Blaze&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 ## 🌌 Current Focus
 
-* 🤖 AI Automation Bots
-* ⚡ Modern Full-Stack Systems
-* 🛒 Shopify & E-Commerce
-* 📱 Mobile App Development
-* 🚀 Scalable Backend APIs
-
----
+* ⚡ Full-Stack Web Development
+* 🛒 Shopify & E-Commerce Systems
+* 📱 Cross-Platform Mobile Apps
+* 🚀 REST APIs & Backend Development
+* 🎨 Modern UI/UX Interfaces
 
 <div align="center">
 
 ### ⚡ Building futuristic systems with clean architecture ⚡
+
+<div align="center">
+
+### ⚡ Building futuristic systems with clean architecture ⚡
+
+</div>
 
 </div>
