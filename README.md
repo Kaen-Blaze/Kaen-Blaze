@@ -15,7 +15,7 @@ height="70"
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=header&text=Building%20the%20Future&fontSize=35&fontColor=ffffff" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaen-Blaze&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </div>
 
 <br><br>
