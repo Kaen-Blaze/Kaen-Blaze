@@ -15,9 +15,7 @@ height="70"
 <br><br>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kaen-Blaze&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaen-Blaze&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 <br><br>
